@@ -187,9 +187,9 @@ Aqui está o código completo com **HTML**, **CSS**, e **JavaScript** para a pá
 
 ---
 
-# 🌐  A imagem da Página Web como ficará com todos sos serviços inseridos 
+# 🌐  A Imagem da Página Web com os Serviços AWS
 
-![Descrição da Imagem](caminho/para/minha_imagem.png)
+![Imagem Web ddo Projeto](https://github.com/esaluno100/AWS-Service-Manager-via-Web/blob/main/AwsManager.png)
 
 
 ## 🛠️ Customização
@@ -207,3 +207,51 @@ Aqui está o código completo com **HTML**, **CSS**, e **JavaScript** para a pá
 --- 
 
 Agora você pode gerenciar seus serviços AWS de maneira simples e eficaz diretamente do navegador! 🚀
+
+--
+
+## 📜 Como Contribuir
+1. **Clone o Repositório**:
+   - Primeiramente, faça um fork do repositório para sua conta no GitHub.
+   - Em seguida, clone o repositório para seu ambiente local:
+     ```bash
+     git clone https://github.com/seuusuario/Projeto-Gerenciamento-Tarefas.git
+     cd Projeto-Gerenciamento-Tarefas
+     ```
+
+2. **Crie uma Nova Branch**:
+   - Para adicionar novas funcionalidades ou corrigir bugs, crie uma nova branch:
+     ```bash
+     git checkout -b minha-nova-feature
+     ```
+
+3. **Faça as Modificações Necessárias**:
+   - Adicione suas melhorias ou correções ao projeto.
+   - Depois de fazer as alterações, adicione os arquivos modificados:
+     ```bash
+     git add .
+     ```
+
+4. **Faça o Commit das Alterações**:
+   - Faça o commit das suas alterações com uma mensagem descritiva:
+     ```bash
+     git commit -m "Descrição clara das melhorias"
+     ```
+
+5. **Envie suas Alterações para seu Fork**:
+   - Envie suas alterações para o seu repositório no GitHub:
+     ```bash
+     git push origin minha-nova-feature
+     ```
+
+6. **Crie um Pull Request**:
+   - Acesse o seu repositório no GitHub e clique em "Compare & pull request".
+   - Envie o pull request para revisão.
+
+Apreciamos todas as contribuições, sejam elas grandes ou pequenas. Se tiver alguma dúvida, sinta-se à vontade para abrir uma issue. Vamos trabalhar juntos para tornar este projeto ainda melhor!
+
+---
+
+Desenvolvido com 💡 e AWS!
+
+---
