@@ -211,12 +211,13 @@ Agora você pode gerenciar seus serviços AWS de maneira simples e eficaz direta
 --
 
 ## 📜 Como Contribuir
+
 1. **Clone o Repositório**:
    - Primeiramente, faça um fork do repositório para sua conta no GitHub.
    - Em seguida, clone o repositório para seu ambiente local:
      ```bash
-     git clone https://github.com/seuusuario/Projeto-Gerenciamento-Tarefas.git
-     cd Projeto-Gerenciamento-Tarefas
+     git clone https://github.com/seuusuario/ AWS-Service-Manager-via-Web
+     cd AWS-Service-Manager-via-Web
      ```
 
 2. **Crie uma Nova Branch**:
@@ -254,4 +255,3 @@ Apreciamos todas as contribuições, sejam elas grandes ou pequenas. Se tiver al
 
 Desenvolvido com 💡 e AWS!
 
----
